@@ -2,3 +2,7 @@ pandas
 scikit-learn
 dvc
 pyyaml
+dvc-gdrive
+PyDrive2==1.21.2
+pyOpenSSL==24.2.1
+cryptography==43.0.3
